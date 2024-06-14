@@ -6,7 +6,6 @@ My name is Anastasia. I am a frontend developer.
 - 🙋 I constntly learn something new, and I like to apply my skills in my petprojects.
 - 💪 I started learning programming in 2021 and now I am able to create various websites.
 - 🔎 Looking for an interesting offers and projects!
-- 🍀 I`m a very enthusiastic person and just a dreamer. 
 
   
 
