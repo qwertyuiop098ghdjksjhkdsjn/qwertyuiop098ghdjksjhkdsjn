@@ -1,6 +1,7 @@
 ## Hello! 👋
 My name is Anastasia. I am a frontend developer. 
 
+<img src="https://github.com/qwertyuiop098ghdjksjhkdsjn/qwertyuiop098ghdjksjhkdsjn/assets/123645368/cc131684-8022-4b97-8657-5e9916a801d3"  width="50%">
 
 - 💻  I have a certificate of completion of programming courses.
 - :electron: I like to use React in my work.
